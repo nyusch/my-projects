@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ASprojects/VoiceActivity/app/src/main/res/drawable/ic_baseline_delete_sweep_24.xml" value="0.1865" />
+        <entry key="..\:/ASprojects/VoiceActivity/app/src/main/res/layout/activity_main.xml" value="0.31875" />
+        <entry key="..\:/ASprojects/VoiceActivity/app/src/main/res/layout/item_pod.xml" value="0.254981884057971" />
+        <entry key="..\:/ASprojects/VoiceActivity/app/src/main/res/menu/toolbar_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
